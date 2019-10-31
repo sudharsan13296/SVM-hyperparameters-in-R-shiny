@@ -32,15 +32,6 @@ dashboardPage(
         plotOutput("newPlot")
       ))
     
-    
-    
-    
-    )
-  
-  
-  
-  
-)
 
 
 
